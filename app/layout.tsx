@@ -10,7 +10,9 @@ export const metadata: Metadata = {
   title: "Mujebur Rahman Khan - Professional HVAC Technician",
   description:
     "Professional HVAC technician with 20+ years experience in Saudi Arabia. Specializing in chillers, AHU, FCU, split units, and refrigeration systems.",
-  generator: "v0.app",
+  icons: {
+    icon: "/favicon.ico"
+  }
 }
 
 export default function RootLayout({
